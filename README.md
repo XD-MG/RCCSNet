@@ -1,4 +1,4 @@
-# BiHCSC
+# RCCSNet
 
 The code will be open-sourced once the paper is accepted.
 
